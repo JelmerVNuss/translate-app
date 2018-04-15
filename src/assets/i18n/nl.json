@@ -1,0 +1,6 @@
+{
+	"demo": {
+		"links": "Hier zijn wat links om je te helpen met beginnen: ",
+		"title": "Welkom bij {{ title }}!"
+	}
+}

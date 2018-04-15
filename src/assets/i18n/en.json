@@ -1,0 +1,6 @@
+{
+	"demo": {
+    "title": "Welcome to {{ title }}!",
+    "links": "Here are some links to help you start: "
+	}
+}
